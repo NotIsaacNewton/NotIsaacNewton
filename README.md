@@ -1,7 +1,10 @@
-@NoIsaacNewton belongs to Arian Dovald, a physics undergrad student at Southern Adventist University.
+@NoIsaacNewton belongs to Arian Dovald, a physics graduate from Southern Adventist University.
 
 
-On this profile you will find two pinned repositories: 
+On this profile you will find three pinned repositories: 
 
-One is a numerical integration program that makes use of Romberg quadratures, otherwise known as Romberg's method.
-The other is a simple Arduino program that functions with an LED strip to create a simple game.
+Romberg-Quadratures is a numerical integration program that makes use of Romberg quadratures, otherwise known as Romberg's method.
+
+vpythonplus is my attempt at streamlining vpython's functionality, because I got tired of writing the same code each time I made a small simulation. I am currently working on adding an RKF solver to this project.
+
+cphysics is a small C++ physics engine that was originally based on vpythonplus. Though it works, I consider it incomplete, as I still plan to add collission detection, an implicit euler or implicit verlet method, and an RKF method. There is also no way to actually see what is going on, so I need to add some kind of renderer.
