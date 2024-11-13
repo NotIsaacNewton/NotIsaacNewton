@@ -1,4 +1,4 @@
-@NoIsaacNewton belongs to Arian Dovald, a physics graduate from Southern Adventist University.
+@NoIsaacNewton belongs to Arian Dovald, a physics graduate student at Kansas State University.
 
 
 On this profile you will find three pinned repositories: 
