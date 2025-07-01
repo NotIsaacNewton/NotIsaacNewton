@@ -1,4 +1,4 @@
-@NoIsaacNewton belongs to Arian Dovald, a physics graduate student at Kansas State University.
+@NotIsaacNewton belongs to Arian Dovald, a physics graduate student at Kansas State University.
 
 
 On this profile you will find four pinned repositories: 
